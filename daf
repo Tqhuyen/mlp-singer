@@ -1,0 +1,179 @@
+[33mcommit 992364c7635af6fd60af1bcd3d3453232880ec8a[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 20:15:46 2023 +0700
+
+    add ignored
+
+[33mcommit 9b025a271bef35f605f2b1b33b2c9cc58b6e78bd[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 20:13:59 2023 +0700
+
+    add ignore
+
+[33mcommit 5d0eb2a200c471d2e97427f48601a8ce557e2d0a[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 20:11:35 2023 +0700
+
+    delete
+
+[33mcommit 56e160f79243c223c5ef666d50622d76465edeb8[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 20:10:02 2023 +0700
+
+    sadfasd
+
+[33mcommit b53a97b5a8bec78d129b7cefaf1d3f8e5af7d5ca[m[33m ([m[1;31mupstream/dev[m[33m)[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 20:04:20 2023 +0700
+
+    delete some file
+
+[33mcommit e0f49b949378ee7b5ca3af91c38a215cfd928b77[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:55:54 2023 +0700
+
+    delete some file
+
+[33mcommit 5d68982250f5af1b14f28a3308286298fa1f3c22[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:55:31 2023 +0700
+
+    delete some file
+
+[33mcommit 801b43a36c095e2b4d9ce20fa27251b291d39397[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:54:37 2023 +0700
+
+    delete some file
+
+[33mcommit 59de9b5fbfe7824c17a9f591af96ac5ea9cf9642[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:53:38 2023 +0700
+
+    delete some file
+
+[33mcommit f038bd54da00c32f6564f880ef1c5e6e1dfd19b3[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:52:54 2023 +0700
+
+    delete some file
+
+[33mcommit 2a62af67cbf7e927111f47ae9b9c0212558daa34[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:51:00 2023 +0700
+
+    delete some file
+
+[33mcommit daa127a7fa6eb15ca1268d107b2c24f8cf0123e5[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:47:49 2023 +0700
+
+    remove samples
+
+[33mcommit da61f17c2171f01692e172344dd91b983f848590[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:47:09 2023 +0700
+
+    remove samples
+
+[33mcommit 7d219cb652cde8ec26a419c6bdb2da66b0b1f775[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:45:13 2023 +0700
+
+    remove samples
+
+[33mcommit 4e166a355c94c6373bf16da1366caa7d42c5004d[m
+Author: TRAN QUANG HUYEN <huyenquangtran2002@gmail.com>
+Date:   Tue Sep 19 19:41:15 2023 +0700
+
+    change data train file
+
+[33mcommit 7f4621ca04ee5e35c0e0a80b1fed785a55a51891[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31mupstream/HEAD[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Thu Feb 24 18:12:56 2022 -0500
+
+    chore: update citation
+
+[33mcommit b6a546fc6fbeb17a6220320a596ea1542ee3e509[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Wed Jun 16 11:19:52 2021 +0000
+
+    docs: correct minor grammatical mistake
+
+[33mcommit e034dbcf99b863b81a362629ba243d0e7a9b589c[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Wed Jun 16 11:19:13 2021 +0000
+
+    docs: add notes section on vocoder
+
+[33mcommit 78c6a7480032dff9cb2a780de50d8a668dcf7ac0[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Wed Jun 16 11:04:47 2021 +0000
+
+    docs: update readme to include paper link
+
+[33mcommit 0200a9036a2c3f7f5fafef3fc7afd285e38e3e83[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Tue Jun 15 09:19:22 2021 +0000
+
+    feature: add overlapped batch inference
+
+[33mcommit d6ada805d3d0b0f3e4ec1fc427416bd0afa62eb6[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Tue Jun 15 09:12:52 2021 +0000
+
+    feature: replace loop with faster batch inference
+
+[33mcommit 5d4082fa8613609a2618e3632d9cd5ad553c3de5[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Tue Jun 15 09:06:16 2021 +0000
+
+    feature: allow usr to specify mel, wav save paths
+
+[33mcommit 710cd120912ebdc671893ba0bcee259d4f16ffdd[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Tue Jun 15 08:55:34 2021 +0000
+
+    fix: use channel avg to make stereo to mono
+
+[33mcommit 660a0024fb743a07ef893e7a87bb91f3787f0b4f[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Wed May 26 02:03:54 2021 +0000
+
+    chore: rm unused import
+
+[33mcommit 5af10c28dd888ebfc8c63fc36d66c6d660dafe54[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Tue May 25 02:18:12 2021 +0900
+
+    fix: prevent iteration increment in validation
+
+[33mcommit 20d8b3b79816618b3e8b27e4f77e60945a9c172b[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Mon May 24 17:39:31 2021 +0900
+
+    chore: create license
+
+[33mcommit c5b57fc14ea0cc6af00b08c8acdd8be51322587b[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Mon May 24 17:28:28 2021 +0900
+
+    docs: make bibtex citations style-consistent
+
+[33mcommit 4049befd612dc6c9e17a07402242a0f68933417d[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Mon May 24 08:06:25 2021 +0000
+
+    chore: upload checkpoint file
+
+[33mcommit e7da1a018f0b8c37dd33c57f09143e4788977e38[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Mon May 24 07:24:44 2021 +0000
+
+    docs: add section on data preprocessing
+
+[33mcommit 3e2b2437f45a5773497b0fb3efeafaed02729601[m
+Author: Jake Tae <jaesungtae@gmail.com>
+Date:   Mon May 24 07:15:43 2021 +0000
+
+    initial commit
