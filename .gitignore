@@ -137,5 +137,5 @@ staticfiles
 /tags
 
 
-data/raw/mid
+data
 samples/*.wav
