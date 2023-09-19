@@ -1,5 +1,6 @@
-librosa>=0.7.0
+librosa==0.8.0
 mido==1.2.9
+matplotlib
 numpy>=1.20.2
 scipy>=1.6.2
 tensorboard>=2.4.0

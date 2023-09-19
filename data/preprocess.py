@@ -74,6 +74,8 @@ def align(
     min_note: int,
 ):
     """align phonemes with notes and expand to mel-spectrogram length"""
+    print(len(phonemes))
+    print(len(note_sequence))
     assert len(phonemes) == len(note_sequence), print("midi lyrics mismatch")
     expanded_text = torch.zeros(total_length)
     expanded_notes = torch.zeros(total_length)

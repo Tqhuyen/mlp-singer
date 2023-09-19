@@ -100,7 +100,7 @@ if __name__ == "__main__":
     )
     parser.add_argument("--data_path", type=str, default=os.path.join("data", "raw"))
     parser.add_argument(
-        "--song", type=str, default="little_star", help="song to infer on"
+        "--song", type=str, default="hppd", help="song to infer on"
     )
     args = parser.parse_args()
     set_seed()
