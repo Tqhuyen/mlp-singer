@@ -135,5 +135,5 @@ cython_debug/
 media
 staticfiles
 /tags
-./data/raw/
-/samples/*.wav
+data/raw/
+samples/*.wav
