@@ -137,5 +137,5 @@ staticfiles
 /tags
 
 
-data
+data/raw/*
 samples/*.wav
